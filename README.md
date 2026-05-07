@@ -1,3 +1,11 @@
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/RezaerRabby" 
+       width="180px" 
+       style="border-radius:50%" 
+       alt="Rezaer Rabby" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Rezaer Rabby</h1>
 
 <h3 align="center">
@@ -6,7 +14,7 @@
 
 <p align="center">
   🚀 Frontend & Backend Developer <br>
-  💻 Learning Next.js, Laravel & NestJS <br>
+  💻 Learning Next.js, NestJS <br>
   🌱 Exploring Modern Web Technologies <br>
   ⚡ Love building clean and user-friendly web applications
 </p>
