@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Rezaer Rabby</h1>
 
 <h3 align="center">
-  Passionate Full Stack Developer from Bangladesh 🇧🇩
+ Full Stack Developer 
 </h3>
 
 <p align="center">
