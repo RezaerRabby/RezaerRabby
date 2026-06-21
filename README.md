@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/RezaerRabby/RezaerRabby/main/assets/profile-image.png"
+    src="https://raw.githubusercontent.com/RezaerRabby/RezaerRabby/main/assets/profile.png"
     width="180"
     height="180"
     alt="Rezaer Rabby"
@@ -10,7 +10,7 @@
 <h1 align="center">Hi 👋, I'm Rezaer Rabby</h1>
 
 <h3 align="center">
- Full Stack Developer 
+  Full Stack Developer
 </h3>
 
 <p align="center">
@@ -33,11 +33,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="" target="_blank">
+  <a href="https://facebook.com/your-facebook" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 
-  <a href="mailto:">
+  <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -47,9 +47,7 @@
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,mysql,mongodb,git,github,vscode,figma,tailwind" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,mysql,mongodb,git,github,vscode,figma,tailwind" />
 </p>
 
 ---
@@ -58,11 +56,11 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RezaerRabby&show_icons=true&theme=tokyonight" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=RezaerRabby&show_icons=true&theme=tokyonight" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RezaerRabby&theme=tokyonight" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RezaerRabby&theme=tokyonight" />
 
 </p>
 
