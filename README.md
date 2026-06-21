@@ -1,7 +1,6 @@
-
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/RezaerRabby/RezaerRabby/main/profile-image.png"
+    src="https://raw.githubusercontent.com/RezaerRabby/RezaerRabby/main/assets/profile-image.png"
     width="180"
     height="180"
     alt="Rezaer Rabby"
