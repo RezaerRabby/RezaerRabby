@@ -1,10 +1,11 @@
 
 <p align="center">
-  <img src="https://<img width="1254" height="1254" alt="ChatGPT Image Jun 21, 2026, 05_04_42 PM" src="https://github.com/user-attachments/assets/d2eab915-58a2-460f-a52c-c57ebc56cf38" />
-" 
-       width="180px" 
-       style="border-radius:50%" 
-       alt="Rezaer Rabby" />
+  <img
+    src="https://raw.githubusercontent.com/RezaerRabby/RezaerRabby/main/profile-image.png"
+    width="180"
+    height="180"
+    alt="Rezaer Rabby"
+  />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rezaer Rabby</h1>
