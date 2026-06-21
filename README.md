@@ -1,7 +1,8 @@
 <p align="center">
   <img
-    src="https://avatars.githubusercontent.com/RezaerRabby"
+    src="https://raw.githubusercontent.com/RezaerRabby/RezaerRabby/main/profile.png"
     width="180"
+    height="180"
     alt="Rezaer Rabby"
   />
 </p>
