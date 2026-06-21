@@ -1,10 +1,4 @@
-<p align="center">
-  <img
-   
-    width="180"
-    alt="Rezaer Rabby"
-  />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Rezaer Rabby</h1>
 
