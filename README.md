@@ -8,7 +8,7 @@
 
 <p align="center">
   🚀 Frontend & Backend Developer <br>
-  💻 Learning Next.js, NestJS <br>
+  💻 Learning React.js, Next.js, NestJS <br>
   🌱 Exploring Modern Web Technologies <br>
   ⚡ Love building clean and user-friendly web applications
 </p>
